@@ -1,0 +1,17 @@
+{
+  "DnsName": "Logic",
+  "MaxRangePriceDate": "365",
+  "LastUpdate": "2022-11-30",
+  "CachePath": "C:\\Users\\Usuario\\OneDrive - KAPEX\\Repository\\CacheUpdater\\bin\\Debug\\Cache.json",
+  "EntireYear": false,
+  "WaitDebug": false,
+  "ParseParams": {
+    "<DATA_ANO>": "<START_ANO>",
+    "<PREV_DAYS>": "365",
+    "<PRICE_MAX_DATE>": "365",
+    "<USED_PROD>": "<USED_PROD>",
+    "<USED_ORDER>": "<USED_ORDER>",
+    "<LAST_UPDATE>": "<LAST_UPDATE>",
+    "<CURRENT_DATE>": "<CURRENT_DATE>"
+  }
+}

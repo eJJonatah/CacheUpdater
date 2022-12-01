@@ -1,0 +1,92 @@
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [22008] ERROR: date/time field value out of range: "2022-00-22";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near "marca_produto";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] timeout expired
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near "marca_produto";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near "marca_produto";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near "marca_produto";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] timeout expired
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near ")";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near "from";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near ")";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] timeout expired
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] timeout expired
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near ")";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at or near ")";
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: O thread atual deve ser definido para o modo STA antes que as chamadas de OLE possam ser feitas.
+CacheUpdater.App.ErrorHandler.Handling+log: O thread atual deve ser definido para o modo STA antes que as chamadas de OLE possam ser feitas.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: Já foi adicionado um item com a mesma chave.
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [42601] ERROR: syntax error at end of input;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] timeout expired
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [57014] ERROR: canceling statement due to statement timeout;
+Error while executing the query
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
+
+CacheUpdater.App.ErrorHandler.Handling+log: ERROR [08001] could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "<>" and accepting
+	TCP/IP connections on port 4040?
